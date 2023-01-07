@@ -1,3 +1,6 @@
+> # ⚠ Archived for Posterity ⚠
+> ℹ: Work on this will continue at [VertigoRay/PSWriteLog](https://github.com/VertigoRay/PSWriteLog). 
+
 Write messages to a log file in CMTrace.exe compatible format or Legacy text file format.
 
 # Description
